@@ -55,7 +55,7 @@ qlip/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/qlip.git
+git clone https://github.com/sasmith-14/qlip.git
 cd qlip
 
 # Install dependencies
